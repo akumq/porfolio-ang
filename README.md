@@ -1,3 +1,3 @@
 # portfolio
  
-https://akumq.github.io/portfolio/
+https://akumq.github.io/portfolio-ang/
